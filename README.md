@@ -6,13 +6,7 @@ I am continuously improving my practical skills through **CTF challenges, SOC la
 
 ---
 
-## 🔭 Currently Working On
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Network Security Monitoring
-- SOC Analyst Labs & SIEM Practice
-- Web Application Security Testing
-- Linux Hardening & Security Automation
-- Cybersecurity Research Projects
+
 
 ## 🌱 Currently Learning
 - Advanced Ethical Hacking
@@ -40,15 +34,7 @@ I am continuously improving my practical skills through **CTF challenges, SOC la
 - Malware Reverse Engineering
 - Real-world Security Operations Center (SOC) Workflows
 
-## 💬 Ask Me About
-- Cybersecurity Basics
-- Networking (LAN, MAN, WAN)
-- Firewalls & NGFW
-- Ethical Hacking vs Pentesting
-- Linux & Windows Security
-- Cyber Attacks & Defense Strategies
-- Zero Trust Architecture
-- Web Security & Secure Coding
+
 
 ## ⚡ Fun Fact
 I enjoy breaking systems ethically to learn how to secure them better — because the best defense starts with understanding the attack.
